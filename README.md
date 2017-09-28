@@ -4,4 +4,4 @@ Mohamed Mohamed is a Research Staff Member with IBM's Almaden Research Center in
 
 ### Publications
 
-For a full list of my publications please see my [Google Scholar Profile](https://goo.gl/K5jNhg)
+For a full list of my publications please see my [Google Scholar Profile](https://goo.gl/K5jNhg).
