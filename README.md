@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Mohamed Mohamed
 
-You can use the [editor on GitHub](https://github.com/midoblgsm/midoblgsm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Mohamed Mohamed is a Research Staff Member with IBM's Almaden Research Center in San Jose, CA, member of the Ubiquitous Platforms. Mohamed is currently working on different projects that are primarily related to PaaS including data persistence management and SLAs management. He is one of the main contributors in designing and implementing rSLA language and framework. He is also one of the main contributors to CloudFoundry persistence support. Mohamed is a main contributor to the design, developement and deployment of the IBM Storage for Containers (aka Ubiquity https://github.com/IBM/ubiquity). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/midoblgsm/midoblgsm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For a full list of my publications please see my [Google Scholar Profile](https://goo.gl/K5jNhg)
